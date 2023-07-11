@@ -8,6 +8,7 @@ I am an engineering student. I love working with Data & AI. Here are a few thing
 - ⛅️ Created a Streamlit application for visualizing and predicting air quality in Brittany, based on Open Data.
 - 📹 Realised a tracking camera system with YoloV4 Tiny, a raspberry Pi 4 and an OAK camera.
 - ✍️ Published posts about AI on [OVHcloud Blog](https://blog.ovhcloud.com/)
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathieu-busquet/) | mathieu.busquet@outlook.fr
 
 <!--
